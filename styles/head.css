@@ -5,6 +5,9 @@
     width: 270px;
     height: 350px;
     /* display: none; */
+    
+    opacity: 0;
+    animation: fly-in var(--fly-duration) var(--fly-timing) calc(var(--order) * var(--delay) ) forwards;
 }
 
 #h-1 {

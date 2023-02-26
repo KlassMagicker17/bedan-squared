@@ -3,6 +3,9 @@
     --accent-color-skin: 40;
     --left-hue: 0;
     --right-hue: 0;
+    --delay: 400ms;
+    --fly-duration: 1000ms;
+    --fly-timing: ease-out;
 }
 
 body {
@@ -52,4 +55,18 @@ main {
     filter: drop-shadow(5px 5px 20px black);
     outline: solid 1px red;
     height: 100vh;
+}
+
+@keyframes fly-in {
+    from {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+        
+
 }

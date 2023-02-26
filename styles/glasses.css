@@ -5,6 +5,9 @@
     height: 130px;
     z-index: 1;
     /* display:none; */
+    
+    opacity: 0;
+    animation: fly-in var(--fly-duration) var(--fly-timing) calc(var(--order) * var(--delay) ) forwards;
 }
 
 #glass-1 {
