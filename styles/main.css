@@ -53,7 +53,7 @@ div:hover {
 
 main {
     filter: drop-shadow(5px 5px 20px black);
-    outline: solid 1px red;
+    /* outline: solid 1px red; */
     height: 100vh;
 }
 
