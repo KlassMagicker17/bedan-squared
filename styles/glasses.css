@@ -1,0 +1,407 @@
+#glasses {
+    left: 500px;
+    top: 90px;
+    width: 230px;
+    height: 130px;
+    z-index: 1;
+    /* display:none; */
+}
+
+#glass-1 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 90%);
+    height: 10px;
+    left: 55px;
+    top: 15px;
+}
+
+#glass-2 {
+    background-color: hsl(var(--accent-color-glasses), 70%, 90%);
+    height: 10px;
+    left: 60px;
+    top: 20px;
+}
+
+#glass-3 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 10px;
+    left: 55px;
+    top: 30px;
+}
+
+#glass-4 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 10px;
+    left: 55px;
+    top: 40px;
+}
+
+#glass-5 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 55px;
+    top: 50px;
+}
+
+#glass-6 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 55px;
+    top: 55px;
+}
+
+#glass-7 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 50px;
+    top: 60px;
+}
+
+#glass-8 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 45px;
+    top: 65px;
+}
+
+#glass-9 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 45px;
+    top: 70px;
+}
+
+#glass-10 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 40px;
+    top: 75px;
+}
+
+#glass-11 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 90%);
+    height: 5px;
+    left: 35px;
+    top: 70px;
+}
+
+#glass-12 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 30px;
+    top: 65px;
+}
+
+#glass-13 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 0%);
+    height: 5px;
+    left: 30px;
+    top: 60px;
+}
+
+#glass-14 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 35px;
+    top: 50px;
+}
+
+#glass-15 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 40px;
+    top: 40px;
+}
+
+#glass-16 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 45px;
+    top: 30px;
+}
+
+#glass-17 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 4px;
+    top: 100px;
+}
+
+#glass-18 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 7px;
+    top: 90px;
+}
+
+#glass-19 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 11px;
+    top: 80px;
+}
+
+#glass-20 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 90%);
+    height: 5px;
+    left: 18px;
+    top: 70px;
+}
+
+#glass-21 {
+    background-color: hsl(var(--accent-color-glasses), 70%, 90%);
+    height: 10px;
+    left: 25px;
+    top: 63px;
+}
+
+#glass-22 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 5px;
+    top: 105px;
+}
+
+#glass-23 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 5px;
+    top: 110px;
+}
+
+#glass-24 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 5px;
+    top: 115px;
+}
+
+#glass-25 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 8px;
+    top: 118px;
+}
+
+#glass-26 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 11px;
+    top: 115px;
+}
+
+#glass-27 {
+    background-color: hsl(var(--accent-color-glasses), 70%, 85%);
+    height: 5px;
+    left: 25px;
+    top: 73px;
+}
+
+#glass-28 {
+    background-color: hsl(var(--accent-color-skin), 40%, 90%);
+    height: 25px;
+    left: 18px;
+    top: 80px;
+}
+
+#glass-29 {
+    background-color: hsl(var(--accent-color-skin), 35%, 90%);
+    height: 20px;
+    left: 15px;
+    top: 90px;
+}
+
+#glass-30 {
+    background-color: hsl(var(--accent-color-glasses), 60%, 70%);
+    height: 15px;
+    left: 65px;
+    top: 10px;
+}
+
+#glass-31 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 5px;
+    left: 50px;
+    top: 25px;
+}
+
+#glass-32 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 10px;
+    left: 80px;
+    top: 15px;
+}
+
+#glass-33 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 8px;
+    left: 90px;
+    top: 18px;
+}
+
+#glass-34 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 7px;
+    left: 95px;
+    top: 20px;
+}
+
+#glass-35 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 70%);
+    height: 7px;
+    left: 101px;
+    top: 22px;
+}
+
+#glass-36 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 108px;
+    top: 23px;
+}
+
+#glass-37 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 113px;
+    top: 26px;
+}
+
+#glass-38 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 118px;
+    top: 27px;
+}
+
+#glass-39 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 123px;
+    top: 28px;
+}
+
+#glass-40 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 129px;
+    top: 30px;
+}
+
+#glass-41 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 135px;
+    top: 32px;
+}
+
+#glass-42 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 6px;
+    left: 141px;
+    top: 34px;
+}
+
+#glass-43 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 6px;
+    left: 147px;
+    top: 35px;
+}
+
+#glass-44 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 151px;
+    top: 37px;
+}
+
+#glass-45 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 156px;
+    top: 39px;
+}
+
+#glass-46 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 161px;
+    top: 41px;
+}
+
+#glass-47 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 60%);
+    height: 7px;
+    left: 167px;
+    top: 43px;
+}
+
+#glass-48 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 55%);
+    height: 7px;
+    left: 174px;
+    top: 45px;
+}
+
+#glass-49 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 55%);
+    height: 7px;
+    left: 179px;
+    top: 48px;
+}
+
+#glass-50 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 55%);
+    height: 7px;
+    left: 200px;
+    top: 70px;
+}
+
+#glass-51 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 55%);
+    height: 7px;
+    left: 205px;
+    top: 72px;
+}
+
+#glass-52 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 40%);
+    height: 7px;
+    left: 210px;
+    top: 78px;
+}
+
+#glass-53 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 43%);
+    height: 7px;
+    left: 212px;
+    top: 83px;
+}
+
+#glass-54 {
+    background-color: hsl(var(--accent-color-glasses), 50%, 45%);
+    height: 5px;
+    left: 216px;
+    top: 86px;
+}
+
+#glass-55 {
+    background-color: hsl(var(--accent-color-skin), 40%, 55%);
+    height: 35px;
+    left: 185px;
+    top: 45px;
+}
+
+#glass-56 {
+    background-color: hsl(var(--accent-color-skin), 35%, 55%);
+    height: 35px;
+    left: 165px;
+    top: 65px;
+}
+
+#glass-57 {
+    background-color: hsl(var(--accent-color-skin), 30%, 60%);
+    height: 15px;
+    left: 175px;
+    top: 55px;
+}

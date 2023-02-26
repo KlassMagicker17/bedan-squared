@@ -1,0 +1,55 @@
+:root {
+    --accent-color-glasses: 200;
+    --accent-color-skin: 40;
+    --left-hue: 0;
+    --right-hue: 0;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(to right, hsl(var(--left-hue), 75%, 75%), hsl(var(--right-hue), 75%, 75%));
+    overflow: hidden;
+    /* background-color: black; */
+}
+
+#ref {
+    position: absolute;
+    height: 200vh;
+    left: 50%;
+    transform: translate(-50%, -25%);
+    opacity: 0.8;
+    z-index: -10;
+    display: none;
+}
+
+
+div>div {
+    position: absolute;
+    aspect-ratio: 1;
+    /* opacity: 0.8; */
+}
+
+div:hover {
+    /* outline: 1px solid red; */
+    /* box-shadow: 3px 3px 10px black; */
+
+}
+
+.container {
+    position: absolute;
+    /* border: 1px solid red; */
+    box-shadow: none !important;
+}
+
+.container>div {
+    /* transition: 200ms ease; */
+    /* box-shadow: 3px 3px 10px black; */
+}
+
+main {
+    filter: drop-shadow(5px 5px 20px black);
+    outline: solid 1px red;
+    height: 100vh;
+}

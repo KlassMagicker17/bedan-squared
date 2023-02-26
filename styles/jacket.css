@@ -1,0 +1,336 @@
+#jacket {
+    width: 400px;
+    height: 400px;
+    left: 430px;
+    top: 270px;
+    /* display: none; */
+}
+
+#jacket-1 {
+    background-color: hsl(252, 8%, 21%);
+    height: 200px;
+    left: 200px;
+    top: 200px;
+}
+
+#jacket-2 {
+    background-color: hsl(252, 8%, 20%);
+    height: 170px;
+    left: 250px;
+    top: 100px;
+}
+
+#jacket-3 {
+    background-color: hsl(252, 8%, 23%);
+    height: 90px;
+    left: 300px;
+    top: 80px;
+}
+
+#jacket-4 {
+    background-color: hsl(252, 8%, 15%);
+    height: 60px;
+    left: 290px;
+    top: 70px;
+}
+
+#jacket-5 {
+    background-color: hsl(252, 8%, 15%);
+    height: 60px;
+    left: 270px;
+    top: 80px;
+}
+
+#jacket-6 {
+    background-color: hsl(252, 10%, 15%);
+    height: 60px;
+    left: 240px;
+    top: 100px;
+}
+
+#jacket-7 {
+    background-color: hsl(252, 9%, 15%);
+    height: 50px;
+    left: 220px;
+    top: 120px;
+}
+
+#jacket-8 {
+    background-color: hsl(252, 8%, 22%);
+    height: 130px;
+    left: 160px;
+    top: 300px;
+}
+
+#jacket-9 {
+    background-color: hsl(252, 8%, 20%);
+    height: 90px;
+    left: 170px;
+    top: 250px;
+}
+
+#jacket-10 {
+    background-color: hsl(252, 8%, 20%);
+    height: 40px;
+    left: 220px;
+    top: 170px;
+}
+
+#jacket-11 {
+    background-color: hsl(252, 8%, 15%);
+    height: 40px;
+    left: 200px;
+    top: 150px;
+}
+
+#jacket-12 {
+    background-color: hsl(252, 10%, 15%);
+    height: 35px;
+    left: 185px;
+    top: 185px;
+}
+
+#jacket-13 {
+    background-color: hsl(252, 8%, 16%);
+    height: 20px;
+    left: 190px;
+    top: 170px;
+}
+
+#jacket-14 {
+    background-color: hsl(252, 8%, 15%);
+    height: 40px;
+    left: 160px;
+    top: 210px;
+}
+
+#jacket-16 {
+    background-color: hsl(252, 8%, 15%);
+    height: 40px;
+    left: 150px;
+    top: 240px;
+}
+
+#jacket-17 {
+    background-color: hsl(252, 8%, 15%);
+    height: 40px;
+    left: 140px;
+    top: 280px;
+}
+
+#jacket-18 {
+    background-color: hsl(252, 8%, 15%);
+    height: 40px;
+    left: 130px;
+    top: 310px;
+}
+
+#jacket-19 {
+    background-color: hsl(252, 8%, 15%);
+    height: 40px;
+    left: 120px;
+    top: 345px;
+}
+
+#jacket-20 {
+    background-color: hsl(252, 8%, 15%);
+    height: 40px;
+    left: 110px;
+    top: 370px;
+}
+
+#jacket-21 {
+    background-color: hsl(252, 8%, 16%);
+    height: 20px;
+    left: 170px;
+    top: 190px;
+}
+
+#jacket-22 {
+    background-color: hsl(252, 8%, 21%);
+    height: 70px;
+    left: 250px;
+    top: 50px;
+}
+
+#jacket-23 {
+    background-color: hsl(252, 8%, 22%);
+    height: 50px;
+    left: 260px;
+    top: 20px;
+}
+
+#jacket-24 {
+    background-color: hsl(252, 8%, 22%);
+    height: 40px;
+    left: 300px;
+    top: 65px;
+}
+
+#jacket-25 {
+    background-color: hsl(252, 8%, 22%);
+    height: 40px;
+    left: 240px;
+    top: 70px;
+}
+
+#jacket-26 {
+    background-color: hsl(252, 8%, 23%);
+    height: 35px;
+    left: 220px;
+    top: 100px;
+}
+
+#jacket-27 {
+    background-color: hsl(252, 9%, 22%);
+    height: 25px;
+    left: 230px;
+    top: 80px;
+}
+
+#jacket-28 {
+    background-color: hsl(252, 8%, 24%);
+    height: 25px;
+    left: 205px;
+    top: 130px;
+}
+
+#jacket-29 {
+    background-color: hsl(252, 8%, 24%);
+    height: 45px;
+    left: 40px;
+    top: 180px;
+}
+
+#jacket-30 {
+    background-color: hsl(252, 8%, 25%);
+    height: 40px;
+    left: 35px;
+    top: 210px;
+}
+
+#jacket-31 {
+    background-color: hsl(252, 8%, 22%);
+    height: 40px;
+    left: 30px;
+    top: 240px;
+}
+
+#jacket-32 {
+    background-color: hsl(252, 8%, 20%);
+    height: 35px;
+    left: 35px;
+    top: 265px;
+}
+
+#jacket-33 {
+    background-color: hsl(252, 8%, 20%);
+    height: 30px;
+    left: 30px;
+    top: 290px;
+}
+
+#jacket-34 {
+    background-color: hsl(252, 8%, 19%);
+    height: 25px;
+    left: 30px;
+    top: 310px;
+}
+
+#jacket-35 {
+    background-color: hsl(252, 8%, 18%);
+    height: 25px;
+    left: 35px;
+    top: 330px;
+}
+
+#jacket-36 {
+    background-color: hsl(252, 4%, 19%);
+    height: 25px;
+    left: 30px;
+    top: 350px;
+}
+
+#jacket-37 {
+    background-color: hsl(252, 8%, 24%);
+    height: 40px;
+    left: 60px;
+    top: 150px;
+}
+
+#jacket-38 {
+    background-color: hsl(252, 8%, 26%);
+    height: 30px;
+    left: 40px;
+    top: 140px;
+}
+
+#jacket-39 {
+    background-color: hsl(252, 8%, 32%);
+    height: 40px;
+    left: 20px;
+    top: 210px;
+    z-index: -2;
+}
+
+#jacket-40 {
+    background-color: hsl(252, 8%, 35%);
+    height: 60px;
+    left: 15px;
+    top: 250px;
+    z-index: -2;
+}
+
+#jacket-41 {
+    background-color: hsl(252, 8%, 38%);
+    height: 50px;
+    left: 0px;
+    top: 290px;
+    z-index: -2;
+}
+
+#jacket-42 {
+    background-color: hsl(252, 8%, 36%);
+    height: 60px;
+    left: -5px;
+    top: 320px;
+    z-index: -2;
+}
+
+#jacket-43 {
+    background-color: hsl(252, 8%, 35%);
+    height: 20px;
+    left: 25px;
+    top: 190px;
+    z-index: -2;
+}
+
+#jacket-44 {
+    background-color: hsl(252, 8%, 35%);
+    height: 60px;
+    left: 15px;
+    top: 250px;
+    z-index: -2;
+}
+
+#jacket-45 {
+    background-color: hsl(252, 8%, 37%);
+    height: 30px;
+    left: 45px;
+    top: 150px;
+    z-index: -2;
+}
+
+#jacket-46 {
+    background-color: hsl(252, 8%, 45%);
+    height: 20px;
+    left: 45px;
+    top: 130px;
+}
+
+#jacket-47 {
+    background-color: hsl(252, 8%, 18%);
+    height: 40px;
+    left: 150px;
+    top: 380px;
+}
